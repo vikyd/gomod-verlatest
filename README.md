@@ -8,3 +8,5 @@ v1.1.3
 commit-no-tag
 
 commit-no-tag-02
+
+v1.1.4
